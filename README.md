@@ -204,6 +204,8 @@ Originally this was three seperate repositories
 - [@imolorhe](https://github.com/imolorhe)
 - [@yoshiakis](https://github.com/yoshiakis)
 - [@dotansimha](https://github.com/dotansimha)
+- [@urigo](https://github.com/urigo)
+- [@timsuchanek](https://github.com/timsuchanek)
 
 ### Fielding Proposals!
 
