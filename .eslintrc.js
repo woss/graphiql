@@ -447,8 +447,12 @@ module.exports = {
             'packages/graphql-language-service-server/src/__tests__/__utils__/utils.ts',
             'packages/graphql-language-service-server/src/__tests__/__utils__/MockProject.ts',
 
+            'packages/graphiql-react/src/setup-workers/*.ts',
+
             'packages/vscode-graphql-syntax/tests/__utilities__/serializer.ts',
             'packages/vscode-graphql-syntax/tests/__utilities__/utilities.ts',
+
+            'resources/patch-monaco-editor-type.mts',
           ],
           maximumDefaultProjectFileMatchCount_THIS_WILL_SLOW_DOWN_LINTING: 100,
         },

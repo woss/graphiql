@@ -138,9 +138,11 @@ multipass
 nauroze
 newhope
 nextjs
+nodenext
 nishchit
 nocheck
 nocursor
+nodenext
 nonmatchingbracket
 novvum
 nowdoc
